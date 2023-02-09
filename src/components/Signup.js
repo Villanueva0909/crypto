@@ -18,8 +18,8 @@ const Signup = () => {
           All the power of DeCrypt's cryptocurrency exchange, in the palm of your hand. Download the DeCrypt mobile crypto trading app today.
           </p>
           <div className="input-container">
-            
-            <button className="btn">Download from Playstore</button>
+            <button className="btn">Download from Playstore</button><br/><br/>
+            <button className="btn">Download from App Store</button>
           </div>
         </div>
       </div>
